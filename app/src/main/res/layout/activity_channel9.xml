@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.jaman.onnline.Channel9">
+
+    <Button
+        android:id="@+id/b_play"
+        android:layout_width="70dp"
+        android:layout_height="34dp"
+        android:text="PLAY"
+        android:background="#6f717c"
+        android:layout_marginTop="502dp"
+        android:layout_centerHorizontal="true"
+        />
+
+    <Button
+        android:id="@+id/c_play"
+        android:layout_width="67dp"
+        android:layout_height="34dp"
+        android:background="@drawable/next1"
+        android:layout_marginTop="502dp"
+        android:layout_marginLeft="249dp"
+        />
+    <Button
+        android:id="@+id/d_play"
+        android:layout_width="67dp"
+        android:layout_height="34dp"
+        android:background="@drawable/next2"
+        android:layout_marginTop="502dp"
+        android:layout_marginLeft="45dp"
+        />
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/radiooo10"
+        />
+
+</RelativeLayout>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Final Backup\Online_Radio\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\Final Backup\Online_Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_21402753e80a2052c2dbc8f0d1de9d3c59f432b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jaman\.android\build-cache\57713040bd3c942b5dfa5822f911a59aab9b4d67\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="F:\backup1\Online_Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_551aa6cc1ef12998dce904a478e3911421af6e65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jaman\.android\build-cache\8d720d6b33181b6185f743c8181de6b15c93e45d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a5fa2e3704f51b30b7b47e12a3a2909728799583">
+        <dex dex="F:\Final Backup\Online_Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce10f75411a4e8ce289a2a7ce0a2d1d6d03e0d2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jaman\.android\build-cache\71acb45c8cff00a06ddfe85395e49719561aafe9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9296d6f092fcdba4fafb6ac26546a39babdab46a">
+        <dex dex="F:\Final Backup\Online_Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_88908b6c47d216995977d524715d4d6db2d35bde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jaman\.android\build-cache\9989c17fd6cea2b44424d237c6d44b4c79c9fd12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="F:\backup1\Online_Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50c5175e37b3d4205360c276933b23fd75740972\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jaman\.android\build-cache\71acb45c8cff00a06ddfe85395e49719561aafe9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9296d6f092fcdba4fafb6ac26546a39babdab46a">
+        <dex dex="F:\backup1\Online_Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_88908b6c47d216995977d524715d4d6db2d35bde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jaman\.android\build-cache\61ffc1647f9741f1bdc75d52ba7caff215452f8f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="031cc16b7b6e77b3c050134ecab9fa5c2640a069">
+        <dex dex="F:\Final Backup\Online_Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6720e20ab9ffe2354537c0ed1d8a1f58bcdc57c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jaman\.android\build-cache\9989c17fd6cea2b44424d237c6d44b4c79c9fd12\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="F:\Final Backup\Online_Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50c5175e37b3d4205360c276933b23fd75740972\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jaman\.android\build-cache\57713040bd3c942b5dfa5822f911a59aab9b4d67\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="F:\Final Backup\Online_Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_551aa6cc1ef12998dce904a478e3911421af6e65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jaman\.android\build-cache\61ffc1647f9741f1bdc75d52ba7caff215452f8f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="031cc16b7b6e77b3c050134ecab9fa5c2640a069">
+        <dex dex="F:\backup1\Online_Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6720e20ab9ffe2354537c0ed1d8a1f58bcdc57c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Final Backup\Online_Radio\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="bfb58dcdccce7350b50983956680c2d46c5c5abc">
+        <dex dex="F:\Final Backup\Online_Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_453632beaa51278f6cc9923a5ed546769531ce07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jaman\.android\build-cache\8d720d6b33181b6185f743c8181de6b15c93e45d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a5fa2e3704f51b30b7b47e12a3a2909728799583">
+        <dex dex="F:\backup1\Online_Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce10f75411a4e8ce289a2a7ce0a2d1d6d03e0d2e\classes.dex" />
+    </item>
+
+</items>
